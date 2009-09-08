@@ -1,7 +1,7 @@
 %define name rox-wallpaper
 %define oname wallpaper
 %define version 2.1
-%define release %mkrel 4
+%define release %mkrel 5
 %define appdir %_prefix/lib/apps
 Summary: Set the wallpaper image for the ROX graphical desktop
 Name: %{name}
