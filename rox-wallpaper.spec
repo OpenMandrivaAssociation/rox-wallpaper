@@ -51,3 +51,36 @@ rm -rf $RPM_BUILD_ROOT
 %appdir/Wallpaper/App*
 %appdir/Wallpaper/Wallpaper.xml
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 2.1-5mdv2010.0
++ Revision: 433428
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.1-4mdv2009.0
++ Revision: 242561
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+
+* Fri Aug 04 2006 GÃ¶tz Waschk <waschk@mandriva.org> 2.1-1mdv2007.0
+- Rebuild
+
+* Mon Jan 30 2006 GÃ¶tz Waschk <waschk@mandriva.org> 2.1-1mdk
+- New release 2.1
+- use mkrel
+
+* Mon Aug 29 2005 Götz Waschk <waschk@mandriva.org> 2.0-1mdk
+- update file list
+- new version
+
+* Wed Aug 24 2005 Götz Waschk <waschk@mandriva.org> 1.9.2-3mdk
+- drop prefix
+
+* Fri Aug 13 2004 Götz Waschk <waschk@linux-mandrake.com> 1.9.2-2mdk
+- rebuild
+
