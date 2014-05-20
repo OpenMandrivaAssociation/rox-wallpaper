@@ -21,7 +21,7 @@ Note that ROX-Filer already allows you to set an image or plain colour for
 the backdrop. Wallpaper lets you do more interesting things...
 
 %prep
-%setup -q -n %oname-%{version}
+%setup -qn Wallpaper
 chmod 644 Wallpaper/Wallpaper.xml
 %build
 
