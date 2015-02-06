@@ -5,7 +5,7 @@ Summary:   Set the wallpaper image for the ROX graphical desktop
 
 Name:      rox-wallpaper
 Version:   2.3
-Release:   1
+Release:   2
 Source0:   https://sourceforge.net/projects/rox/files/Wallpaper/2.3/Wallpaper-%{version}.tar.gz
 License:   GPL
 Group:     Graphical desktop/Other
