@@ -9,7 +9,7 @@ Release:   2
 Source0:   https://sourceforge.net/projects/rox/files/Wallpaper/2.3/Wallpaper-%{version}.tar.gz
 License:   GPL
 Group:     Graphical desktop/Other
-URL:       http://rox.sf.net/wallpaper.html
+URL:       https://rox.sf.net/wallpaper.html
 Requires:  rox-lib
 BuildArch: noarch
 
